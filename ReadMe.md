@@ -13,11 +13,11 @@ XlsxWriter and Python Image Library (PIL) are required - both can be installed u
 
 ## Usage
 
-$ python convert.py "image file location"
+$ ./convert.py "image file location"
 
 OR
 
-$ python convert.py "image file location" -d
+$ ./convert.py "image file location" -d
 
 The -d argument changes the colour from 24-bit to 4-bit.
 
