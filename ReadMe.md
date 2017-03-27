@@ -9,6 +9,7 @@ Why create this? Just for fun, it is pretty useless, however some possible uses 
 ## Installation
 
 Python 2.7.10
+
 XlsxWriter and Python Image Library (PIL) are required - both can be installed using pip
 
 ## Usage
